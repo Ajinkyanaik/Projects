@@ -6,4 +6,4 @@ This is the simple file
 
 Added new line
 
-Just new branch update
+This is bound to cause trouble!
