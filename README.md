@@ -6,4 +6,4 @@ This is the simple file
 
 Added new line
 
-This is bound to cause trouble!
+Just something going on
